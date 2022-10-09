@@ -1,0 +1,41 @@
+body {background-color: #fffacd;}
+
+.logo {
+	background-image: url("logo.png");
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 20px;
+	width: 60px;
+	height: 60px;
+}
+
+tr>th {
+	padding-right: 70px;
+}
+	
+
+.header{
+	position: absolute;
+	top: 50px;
+	left: 180px;
+	color: #51279B;
+}
+
+.img {
+	position: absolute;
+	left: 500px;
+	top: 200px;
+}
+
+.info {
+	position: absolute;
+	left: 500px;
+	top: 800px;
+	width: 800px;
+}
+
+.map {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}

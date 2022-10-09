@@ -1,0 +1,50 @@
+/*
+.img1 {
+	outline: 3px blue;
+	background-image: url("1-small.jpg");
+	background-position: 50px 50px;
+	background-repeat: no-repeat;
+	bottom: 30%;
+	
+}
+div .img2 {
+	outline: 3px green;
+	background-image: url("2-small.jpg");
+	background-height: 50px;
+	background-width:50px;
+	background-repeat: no-repeat;
+	bottom: 30%;
+}
+div .img3 {
+	background-image: url("3-small.jpg");
+	background-height: 50px;
+	background-width:50px;
+	background-repeat: no-repeat;
+	bottom: 30%;
+}
+*/
+
+
+		<div>
+			<span class = "img1">
+				<p>Explore Nova Scotia</p>
+				<p>On board a small sailing ship leaving Lunenburg</p>
+			</span>
+			<span class = "img2">
+				<p>Dusk on Santorini</p>
+				<p>Devote yourself to the sunset</p>
+			</span>
+			<span class = "img3">
+				<p>Amsterdam Flower Market</p>
+				<p>The only floating flower market in the world</p>
+			</span>
+		
+		</div>
+        <footer>
+                <p>Copyright &copy; 2020 Art Museum</p>
+                <p>
+                   <a href="#">Home</a> | <a href="#">About</a> | <a href="#">Gallery</a>
+                </p>
+             </footer>
+			 
+			 
